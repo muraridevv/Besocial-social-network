@@ -73,17 +73,25 @@ The Server is running on port `8000`.
 
 1. **Welcome Page**
 
- ![App Screenshot](Screenshot1.png)
+ ![App Screenshot](readme-screenshot/Screenshot1.png)
+
+2. **Login Page**
+
+ ![App Screenshot](readme-screenshot/Screenshot2.png)
 
 
-1. **Home Page**
+3. **Home Page**
 
- ![App Screenshot](readme-images/kl-social-network-home-gregor.PNG)
+ ![App Screenshot](readme-screenshot/Screenshot3.png)
 
-2. **Friends Page**
+ 4. **Profile Page**
 
- ![App Screenshot](readme-images/kl-social-network-friends-gregor.PNG)
+ ![App Screenshot](readme-screenshot/Screenshot4.png)
 
-3. **Photos Page**
+5. **Friends Page**
 
- ![App Screenshot](readme-images/kl-social-network-photos-gregor.PNG)
+ ![App Screenshot](readme-screenshot/Screenshot5.png)
+
+6. **Log Page**
+
+ ![App Screenshot](readme-screenshot/Screenshot6.png)
