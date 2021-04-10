@@ -71,6 +71,11 @@ The Server is running on port `8000`.
 
 ## App screenshots
 
+1. **Welcome Page**
+
+ ![App Screenshot](Screenshot1.png)
+
+
 1. **Home Page**
 
  ![App Screenshot](readme-images/kl-social-network-home-gregor.PNG)
