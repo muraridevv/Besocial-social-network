@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>kl</groupId>
-    <artifactId>kl-social-network</artifactId>
+    <groupId>murari</groupId>
+    <artifactId>besocial-social-network</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
