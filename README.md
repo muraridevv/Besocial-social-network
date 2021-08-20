@@ -19,7 +19,7 @@ Features:
 - Logs history
 
 This project is deployed on aws:[Besocial-social-network](http://besocial-social-network.s3-website.ap-south-1.amazonaws.com):
-- Test user with credential `murari@gmail.com`/`abcd`
+- Test user with credential `murari`/`abcd`
 
 ## Requirements
 
