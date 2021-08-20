@@ -15,7 +15,7 @@
 
     <packaging>jar</packaging>
 
-    <name>kl-social-network</name>
+    <name>besocial-social-network</name>
     <description>Social Network Project with Spring Boot</description>
 
     <properties>
